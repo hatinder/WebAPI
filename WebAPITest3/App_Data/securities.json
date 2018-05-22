@@ -1,0 +1,2527 @@
+[{
+		"Ticker.symbol" : "MMM",
+		"Security" : "3M Company",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "ABT",
+		"Security" : "Abbott Laboratories",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "ABBV",
+		"Security" : "AbbVie",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}, {
+		"Ticker.symbol" : "ACN",
+		"Security" : "Accenture plc",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "IT Consulting & Other Services"
+	}, {
+		"Ticker.symbol" : "ATVI",
+		"Security" : "Activision Blizzard",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Home Entertainment Software"
+	}, {
+		"Ticker.symbol" : "AYI",
+		"Security" : "Acuity Brands Inc",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Electrical Components & Equipment"
+	}, {
+		"Ticker.symbol" : "ADBE",
+		"Security" : "Adobe Systems Inc",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Application Software"
+	}, {
+		"Ticker.symbol" : "AAP",
+		"Security" : "Advance Auto Parts",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Automotive Retail"
+	}, {
+		"Ticker.symbol" : "AES",
+		"Security" : "AES Corp",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Independent Power Producers & Energy Traders"
+	}, {
+		"Ticker.symbol" : "AET",
+		"Security" : "Aetna Inc",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Managed Health Care"
+	}, {
+		"Ticker.symbol" : "AMG",
+		"Security" : "Affiliated Managers Group Inc",
+		"Sector" : "Financials",
+		"SubIndustry" : "Asset Management & Custody Banks"
+	}, {
+		"Ticker.symbol" : "AFL",
+		"Security" : "AFLAC Inc",
+		"Sector" : "Financials",
+		"SubIndustry" : "Life & Health Insurance"
+	}, {
+		"Ticker.symbol" : "A",
+		"Security" : "Agilent Technologies Inc",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "APD",
+		"Security" : "Air Products & Chemicals Inc",
+		"Sector" : "Materials",
+		"SubIndustry" : "Industrial Gases"
+	}, {
+		"Ticker.symbol" : "AKAM",
+		"Security" : "Akamai Technologies Inc",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "ALK",
+		"Security" : "Alaska Air Group Inc",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Airlines"
+	}, {
+		"Ticker.symbol" : "ALB",
+		"Security" : "Albemarle Corp",
+		"Sector" : "Materials",
+		"SubIndustry" : "Specialty Chemicals"
+	}, {
+		"Ticker.symbol" : "ALXN",
+		"Security" : "Alexion Pharmaceuticals",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Biotechnology"
+	}, {
+		"Ticker.symbol" : "ALLE",
+		"Security" : "Allegion",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Building Products"
+	}, {
+		"Ticker.symbol" : "AGN",
+		"Security" : "Allergan, Plc",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}, {
+		"Ticker.symbol" : "ADS",
+		"Security" : "Alliance Data Systems",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Data Processing & Outsourced Services"
+	}, {
+		"Ticker.symbol" : "LNT",
+		"Security" : "Alliant Energy Corp",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "ALL",
+		"Security" : "Allstate Corp",
+		"Sector" : "Financials",
+		"SubIndustry" : "Property & Casualty Insurance"
+	}, {
+		"Ticker.symbol" : "GOOGL",
+		"Security" : "Alphabet Inc Class A",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "GOOG",
+		"Security" : "Alphabet Inc Class C",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "MO",
+		"Security" : "Altria Group Inc",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Tobacco"
+	}, {
+		"Ticker.symbol" : "AMZN",
+		"Security" : "Amazon.com Inc",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Internet & Direct Marketing Retail"
+	}, {
+		"Ticker.symbol" : "AEE",
+		"Security" : "Ameren Corp",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "AAL",
+		"Security" : "American Airlines Group",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Airlines"
+	}, {
+		"Ticker.symbol" : "AEP",
+		"Security" : "American Electric Power",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "AXP",
+		"Security" : "American Express Co",
+		"Sector" : "Financials",
+		"SubIndustry" : "Consumer Finance"
+	}, {
+		"Ticker.symbol" : "AIG",
+		"Security" : "American International Group, Inc.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Property & Casualty Insurance"
+	}, {
+		"Ticker.symbol" : "AMT",
+		"Security" : "American Tower Corp A",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Specialized REITs"
+	}, {
+		"Ticker.symbol" : "AWK",
+		"Security" : "American Water Works Company Inc",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Water Utilities"
+	}, {
+		"Ticker.symbol" : "AMP",
+		"Security" : "Ameriprise Financial",
+		"Sector" : "Financials",
+		"SubIndustry" : "Asset Management & Custody Banks"
+	}, {
+		"Ticker.symbol" : "ABC",
+		"Security" : "AmerisourceBergen Corp",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Distributors"
+	}, {
+		"Ticker.symbol" : "AME",
+		"Security" : "AMETEK Inc",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Electrical Components & Equipment"
+	}, {
+		"Ticker.symbol" : "AMGN",
+		"Security" : "Amgen Inc",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Biotechnology"
+	}, {
+		"Ticker.symbol" : "APH",
+		"Security" : "Amphenol Corp",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Electronic Components"
+	}, {
+		"Ticker.symbol" : "APC",
+		"Security" : "Anadarko Petroleum Corp",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "ADI",
+		"Security" : "Analog Devices, Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "ANTM",
+		"Security" : "Anthem Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Managed Health Care"
+	}, {
+		"Ticker.symbol" : "AON",
+		"Security" : "Aon plc",
+		"Sector" : "Financials",
+		"SubIndustry" : "Insurance Brokers"
+	}, {
+		"Ticker.symbol" : "APA",
+		"Security" : "Apache Corporation",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "AIV",
+		"Security" : "Apartment Investment & Mgmt",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "AAPL",
+		"Security" : "Apple Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Computer Hardware"
+	}, {
+		"Ticker.symbol" : "AMAT",
+		"Security" : "Applied Materials Inc",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductor Equipment"
+	}, {
+		"Ticker.symbol" : "ADM",
+		"Security" : "Archer-Daniels-Midland Co",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Agricultural Products"
+	}, {
+		"Ticker.symbol" : "ARNC",
+		"Security" : "Arconic Inc",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Aerospace & Defense"
+	}, {
+		"Ticker.symbol" : "AJG",
+		"Security" : "Arthur J. Gallagher & Co.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Insurance Brokers"
+	}, {
+		"Ticker.symbol" : "AIZ",
+		"Security" : "Assurant Inc",
+		"Sector" : "Financials",
+		"SubIndustry" : "Multi-line Insurance"
+	}, {
+		"Ticker.symbol" : "T",
+		"Security" : "AT&T Inc",
+		"Sector" : "Telecommunications Services",
+		"SubIndustry" : "Integrated Telecommunications Services"
+	}, {
+		"Ticker.symbol" : "ADSK",
+		"Security" : "Autodesk Inc",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Application Software"
+	}, {
+		"Ticker.symbol" : "ADP",
+		"Security" : "Automatic Data Processing",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "AN",
+		"Security" : "AutoNation Inc",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Stores"
+	}, {
+		"Ticker.symbol" : "AZO",
+		"Security" : "AutoZone Inc",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Stores"
+	}, {
+		"Ticker.symbol" : "AVB",
+		"Security" : "AvalonBay Communities, Inc.",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Residential REITs"
+	}, {
+		"Ticker.symbol" : "AVY",
+		"Security" : "Avery Dennison Corp",
+		"Sector" : "Materials",
+		"SubIndustry" : "Paper Packaging"
+	}, {
+		"Ticker.symbol" : "BHI",
+		"Security" : "Baker Hughes Inc",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Equipment & Services"
+	}, {
+		"Ticker.symbol" : "BLL",
+		"Security" : "Ball Corp",
+		"Sector" : "Materials",
+		"SubIndustry" : "Metal & Glass Containers"
+	}, {
+		"Ticker.symbol" : "BAC",
+		"Security" : "Bank of America Corp",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "BCR",
+		"Security" : "Bard (C.R.) Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "BAX",
+		"Security" : "Baxter International Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "BBT",
+		"Security" : "BB&T Corporation",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "BDX",
+		"Security" : "Becton Dickinson",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "BBBY",
+		"Security" : "Bed Bath & Beyond",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Stores"
+	}, {
+		"Ticker.symbol" : "BRK.B",
+		"Security" : "Berkshire Hathaway",
+		"Sector" : "Financials",
+		"SubIndustry" : "Multi-Sector Holdings"
+	}, {
+		"Ticker.symbol" : "BBY",
+		"Security" : "Best Buy Co. Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Computer & Electronics Retail"
+	}, {
+		"Ticker.symbol" : "BIIB",
+		"Security" : "BIOGEN IDEC Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Biotechnology"
+	}, {
+		"Ticker.symbol" : "BLK",
+		"Security" : "BlackRock",
+		"Sector" : "Financials",
+		"SubIndustry" : "Asset Management & Custody Banks"
+	}, {
+		"Ticker.symbol" : "HRB",
+		"Security" : "Block H&R",
+		"Sector" : "Financials",
+		"SubIndustry" : "Consumer Finance"
+	}, {
+		"Ticker.symbol" : "BA",
+		"Security" : "Boeing Company",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Aerospace & Defense"
+	}, {
+		"Ticker.symbol" : "BWA",
+		"Security" : "BorgWarner",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Auto Parts & Equipment"
+	}, {
+		"Ticker.symbol" : "BXP",
+		"Security" : "Boston Properties",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "BSX",
+		"Security" : "Boston Scientific",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "BMY",
+		"Security" : "Bristol-Myers Squibb",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Distributors"
+	}, {
+		"Ticker.symbol" : "AVGO",
+		"Security" : "Broadcom",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "BF.B",
+		"Security" : "Brown-Forman Corporation",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Distillers & Vintners"
+	}, {
+		"Ticker.symbol" : "CHRW",
+		"Security" : "C. H. Robinson Worldwide",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Air Freight & Logistics"
+	}, {
+		"Ticker.symbol" : "CA",
+		"Security" : "CA, Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Systems Software"
+	}, {
+		"Ticker.symbol" : "COG",
+		"Security" : "Cabot Oil & Gas",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "CPB",
+		"Security" : "Campbell Soup",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "COF",
+		"Security" : "Capital One Financial",
+		"Sector" : "Financials",
+		"SubIndustry" : "Consumer Finance"
+	}, {
+		"Ticker.symbol" : "CAH",
+		"Security" : "Cardinal Health Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Distributors"
+	}, {
+		"Ticker.symbol" : "KMX",
+		"Security" : "Carmax Inc",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Stores"
+	}, {
+		"Ticker.symbol" : "CCL",
+		"Security" : "Carnival Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Hotels, Resorts & Cruise Lines"
+	}, {
+		"Ticker.symbol" : "CAT",
+		"Security" : "Caterpillar Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Construction & Farm Machinery & Heavy Trucks"
+	}, {
+		"Ticker.symbol" : "CBG",
+		"Security" : "CBRE Group",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Real Estate Services"
+	}, {
+		"Ticker.symbol" : "CBS",
+		"Security" : "CBS Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Broadcasting & Cable TV"
+	}, {
+		"Ticker.symbol" : "CELG",
+		"Security" : "Celgene Corp.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Biotechnology"
+	}, {
+		"Ticker.symbol" : "CNC",
+		"Security" : "Centene Corporation",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Managed Health Care"
+	}, {
+		"Ticker.symbol" : "CNP",
+		"Security" : "CenterPoint Energy",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "CTL",
+		"Security" : "CenturyLink Inc",
+		"Sector" : "Telecommunications Services",
+		"SubIndustry" : "Integrated Telecommunications Services"
+	}, {
+		"Ticker.symbol" : "CERN",
+		"Security" : "Cerner",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Technology"
+	}, {
+		"Ticker.symbol" : "CF",
+		"Security" : "CF Industries Holdings Inc",
+		"Sector" : "Materials",
+		"SubIndustry" : "Fertilizers & Agricultural Chemicals"
+	}, {
+		"Ticker.symbol" : "SCHW",
+		"Security" : "Charles Schwab Corporation",
+		"Sector" : "Financials",
+		"SubIndustry" : "Investment Banking & Brokerage"
+	}, {
+		"Ticker.symbol" : "CHTR",
+		"Security" : "Charter Communications",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Cable & Satellite"
+	}, {
+		"Ticker.symbol" : "CHK",
+		"Security" : "Chesapeake Energy",
+		"Sector" : "Energy",
+		"SubIndustry" : "Integrated Oil & Gas"
+	}, {
+		"Ticker.symbol" : "CVX",
+		"Security" : "Chevron Corp.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Integrated Oil & Gas"
+	}, {
+		"Ticker.symbol" : "CMG",
+		"Security" : "Chipotle Mexican Grill",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Restaurants"
+	}, {
+		"Ticker.symbol" : "CB",
+		"Security" : "Chubb Limited",
+		"Sector" : "Financials",
+		"SubIndustry" : "Property & Casualty Insurance"
+	}, {
+		"Ticker.symbol" : "CHD",
+		"Security" : "Church & Dwight",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Household Products"
+	}, {
+		"Ticker.symbol" : "CI",
+		"Security" : "CIGNA Corp.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Managed Health Care"
+	}, {
+		"Ticker.symbol" : "XEC",
+		"Security" : "Cimarex Energy",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "CINF",
+		"Security" : "Cincinnati Financial",
+		"Sector" : "Financials",
+		"SubIndustry" : "Property & Casualty Insurance"
+	}, {
+		"Ticker.symbol" : "CTAS",
+		"Security" : "Cintas Corporation",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Diversified Support Services"
+	}, {
+		"Ticker.symbol" : "CSCO",
+		"Security" : "Cisco Systems",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Networking Equipment"
+	}, {
+		"Ticker.symbol" : "C",
+		"Security" : "Citigroup Inc.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "CFG",
+		"Security" : "Citizens Financial Group",
+		"Sector" : "Financials",
+		"SubIndustry" : "Regional Banks"
+	}, {
+		"Ticker.symbol" : "CTXS",
+		"Security" : "Citrix Systems",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "CME",
+		"Security" : "CME Group Inc.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Financial Exchanges & Data"
+	}, {
+		"Ticker.symbol" : "CMS",
+		"Security" : "CMS Energy",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "COH",
+		"Security" : "Coach Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "KO",
+		"Security" : "Coca Cola Company",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Soft Drinks"
+	}, {
+		"Ticker.symbol" : "CTSH",
+		"Security" : "Cognizant Technology Solutions",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "IT Consulting & Other Services"
+	}, {
+		"Ticker.symbol" : "CL",
+		"Security" : "Colgate-Palmolive",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Household Products"
+	}, {
+		"Ticker.symbol" : "CMCSA",
+		"Security" : "Comcast A Corp",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Cable & Satellite"
+	}, {
+		"Ticker.symbol" : "CMA",
+		"Security" : "Comerica Inc.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Regional Banks"
+	}, {
+		"Ticker.symbol" : "CAG",
+		"Security" : "ConAgra Foods Inc.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "CXO",
+		"Security" : "Concho Resources",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "COP",
+		"Security" : "ConocoPhillips",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "ED",
+		"Security" : "Consolidated Edison",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "STZ",
+		"Security" : "Constellation Brands",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Distillers & Vintners"
+	}, {
+		"Ticker.symbol" : "GLW",
+		"Security" : "Corning Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Electronic Components"
+	}, {
+		"Ticker.symbol" : "COST",
+		"Security" : "Costco Co.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Hypermarkets & Super Centers"
+	}, {
+		"Ticker.symbol" : "COTY",
+		"Security" : "Coty, Inc",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Personal Products"
+	}, {
+		"Ticker.symbol" : "CCI",
+		"Security" : "Crown Castle International Corp.",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "CSRA",
+		"Security" : "CSRA Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "IT Consulting & Other Services"
+	}, {
+		"Ticker.symbol" : "CSX",
+		"Security" : "CSX Corp.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Railroads"
+	}, {
+		"Ticker.symbol" : "CMI",
+		"Security" : "Cummins Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Machinery"
+	}, {
+		"Ticker.symbol" : "CVS",
+		"Security" : "CVS Health",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Drug Retail"
+	}, {
+		"Ticker.symbol" : "DHI",
+		"Security" : "D. R. Horton",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Homebuilding"
+	}, {
+		"Ticker.symbol" : "DHR",
+		"Security" : "Danaher Corp.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "DRI",
+		"Security" : "Darden Restaurants",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Restaurants"
+	}, {
+		"Ticker.symbol" : "DVA",
+		"Security" : "DaVita Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Facilities"
+	}, {
+		"Ticker.symbol" : "DE",
+		"Security" : "Deere & Co.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Construction & Farm Machinery & Heavy Trucks"
+	}, {
+		"Ticker.symbol" : "DLPH",
+		"Security" : "Delphi Automotive",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Auto Parts & Equipment"
+	}, {
+		"Ticker.symbol" : "DAL",
+		"Security" : "Delta Air Lines",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Airlines"
+	}, {
+		"Ticker.symbol" : "XRAY",
+		"Security" : "Dentsply Sirona",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Supplies"
+	}, {
+		"Ticker.symbol" : "DVN",
+		"Security" : "Devon Energy Corp.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "DLR",
+		"Security" : "Digital Realty Trust",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Specialized REITs"
+	}, {
+		"Ticker.symbol" : "DFS",
+		"Security" : "Discover Financial Services",
+		"Sector" : "Financials",
+		"SubIndustry" : "Consumer Finance"
+	}, {
+		"Ticker.symbol" : "DISCA",
+		"Security" : "Discovery Communications-A",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Cable & Satellite"
+	}, {
+		"Ticker.symbol" : "DISCK",
+		"Security" : "Discovery Communications-C",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Cable & Satellite"
+	}, {
+		"Ticker.symbol" : "DG",
+		"Security" : "Dollar General",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "General Merchandise Stores"
+	}, {
+		"Ticker.symbol" : "DLTR",
+		"Security" : "Dollar Tree",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "General Merchandise Stores"
+	}, {
+		"Ticker.symbol" : "D",
+		"Security" : "Dominion Resources",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "DOV",
+		"Security" : "Dover Corp.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Machinery"
+	}, {
+		"Ticker.symbol" : "DOW",
+		"Security" : "Dow Chemical",
+		"Sector" : "Materials",
+		"SubIndustry" : "Diversified Chemicals"
+	}, {
+		"Ticker.symbol" : "DPS",
+		"Security" : "Dr Pepper Snapple Group",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Soft Drinks"
+	}, {
+		"Ticker.symbol" : "DTE",
+		"Security" : "DTE Energy Co.",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "DD",
+		"Security" : "Du Pont (E.I.)",
+		"Sector" : "Materials",
+		"SubIndustry" : "Diversified Chemicals"
+	}, {
+		"Ticker.symbol" : "DUK",
+		"Security" : "Duke Energy",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "DNB",
+		"Security" : "Dun & Bradstreet",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Research & Consulting Services"
+	}, {
+		"Ticker.symbol" : "ETFC",
+		"Security" : "E*Trade",
+		"Sector" : "Financials",
+		"SubIndustry" : "Investment Banking & Brokerage"
+	}, {
+		"Ticker.symbol" : "EMN",
+		"Security" : "Eastman Chemical",
+		"Sector" : "Materials",
+		"SubIndustry" : "Diversified Chemicals"
+	}, {
+		"Ticker.symbol" : "ETN",
+		"Security" : "Eaton Corporation",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "EBAY",
+		"Security" : "eBay Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "ECL",
+		"Security" : "Ecolab Inc.",
+		"Sector" : "Materials",
+		"SubIndustry" : "Specialty Chemicals"
+	}, {
+		"Ticker.symbol" : "EIX",
+		"Security" : "Edison Int'l",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "EW",
+		"Security" : "Edwards Lifesciences",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "EA",
+		"Security" : "Electronic Arts",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Home Entertainment Software"
+	}, {
+		"Ticker.symbol" : "EMR",
+		"Security" : "Emerson Electric Company",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "ENDP",
+		"Security" : "Endo International",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}, {
+		"Ticker.symbol" : "ETR",
+		"Security" : "Entergy Corp.",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "EVHC",
+		"Security" : "Envision Healthcare Corp",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Services"
+	}, {
+		"Ticker.symbol" : "EOG",
+		"Security" : "EOG Resources",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "EQT",
+		"Security" : "EQT Corporation",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "EFX",
+		"Security" : "Equifax Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Research & Consulting Services"
+	}, {
+		"Ticker.symbol" : "EQIX",
+		"Security" : "Equinix",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "EQR",
+		"Security" : "Equity Residential",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "ESS",
+		"Security" : "Essex Property Trust, Inc.",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Residential REITs"
+	}, {
+		"Ticker.symbol" : "EL",
+		"Security" : "Estee Lauder Cos.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Personal Products"
+	}, {
+		"Ticker.symbol" : "ES",
+		"Security" : "Eversource Energy",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "EXC",
+		"Security" : "Exelon Corp.",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "EXPE",
+		"Security" : "Expedia Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Internet & Direct Marketing Retail"
+	}, {
+		"Ticker.symbol" : "EXPD",
+		"Security" : "Expeditors Int'l",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Air Freight & Logistics"
+	}, {
+		"Ticker.symbol" : "ESRX",
+		"Security" : "Express Scripts",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Distributors"
+	}, {
+		"Ticker.symbol" : "EXR",
+		"Security" : "Extra Space Storage",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Specialized REITs"
+	}, {
+		"Ticker.symbol" : "XOM",
+		"Security" : "Exxon Mobil Corp.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Integrated Oil & Gas"
+	}, {
+		"Ticker.symbol" : "FFIV",
+		"Security" : "F5 Networks",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Networking Equipment"
+	}, {
+		"Ticker.symbol" : "FB",
+		"Security" : "Facebook",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "FAST",
+		"Security" : "Fastenal Co",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Building Products"
+	}, {
+		"Ticker.symbol" : "FRT",
+		"Security" : "Federal Realty Investment Trust",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Retail REITs"
+	}, {
+		"Ticker.symbol" : "FDX",
+		"Security" : "FedEx Corporation",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Air Freight & Logistics"
+	}, {
+		"Ticker.symbol" : "FIS",
+		"Security" : "Fidelity National Information Services",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "FITB",
+		"Security" : "Fifth Third Bancorp",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "FSLR",
+		"Security" : "First Solar Inc",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "FE",
+		"Security" : "FirstEnergy Corp",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "FISV",
+		"Security" : "Fiserv Inc",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "FLIR",
+		"Security" : "FLIR Systems",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Electronic Equipment & Instruments"
+	}, {
+		"Ticker.symbol" : "FLS",
+		"Security" : "Flowserve Corporation",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Machinery"
+	}, {
+		"Ticker.symbol" : "FLR",
+		"Security" : "Fluor Corp.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Diversified Commercial Services"
+	}, {
+		"Ticker.symbol" : "FMC",
+		"Security" : "FMC Corporation",
+		"Sector" : "Materials",
+		"SubIndustry" : "Diversified Chemicals"
+	}, {
+		"Ticker.symbol" : "FTI",
+		"Security" : "FMC Technologies Inc.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Equipment & Services"
+	}, {
+		"Ticker.symbol" : "FL",
+		"Security" : "Foot Locker Inc",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel Retail"
+	}, {
+		"Ticker.symbol" : "F",
+		"Security" : "Ford Motor",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Automobile Manufacturers"
+	}, {
+		"Ticker.symbol" : "FTV",
+		"Security" : "Fortive Corp",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Machinery"
+	}, {
+		"Ticker.symbol" : "FBHS",
+		"Security" : "Fortune Brands Home & Security",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Building Products"
+	}, {
+		"Ticker.symbol" : "BEN",
+		"Security" : "Franklin Resources",
+		"Sector" : "Financials",
+		"SubIndustry" : "Asset Management & Custody Banks"
+	}, {
+		"Ticker.symbol" : "FCX",
+		"Security" : "Freeport-McMoran Cp & Gld",
+		"Sector" : "Materials",
+		"SubIndustry" : "Copper"
+	}, {
+		"Ticker.symbol" : "FTR",
+		"Security" : "Frontier Communications",
+		"Sector" : "Telecommunications Services",
+		"SubIndustry" : "Integrated Telecommunications Services"
+	}, {
+		"Ticker.symbol" : "GPS",
+		"Security" : "Gap (The)",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel Retail"
+	}, {
+		"Ticker.symbol" : "GRMN",
+		"Security" : "Garmin Ltd.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Consumer Electronics"
+	}, {
+		"Ticker.symbol" : "GD",
+		"Security" : "General Dynamics",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Aerospace & Defense"
+	}, {
+		"Ticker.symbol" : "GE",
+		"Security" : "General Electric",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "GGP",
+		"Security" : "General Growth Properties Inc.",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Retail REITs"
+	}, {
+		"Ticker.symbol" : "GIS",
+		"Security" : "General Mills",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "GM",
+		"Security" : "General Motors",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Automobile Manufacturers"
+	}, {
+		"Ticker.symbol" : "GPC",
+		"Security" : "Genuine Parts",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Stores"
+	}, {
+		"Ticker.symbol" : "GILD",
+		"Security" : "Gilead Sciences",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Biotechnology"
+	}, {
+		"Ticker.symbol" : "GPN",
+		"Security" : "Global Payments Inc",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Data Processing & Outsourced Services"
+	}, {
+		"Ticker.symbol" : "GS",
+		"Security" : "Goldman Sachs Group",
+		"Sector" : "Financials",
+		"SubIndustry" : "Investment Banking & Brokerage"
+	}, {
+		"Ticker.symbol" : "GT",
+		"Security" : "Goodyear Tire & Rubber",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Tires & Rubber"
+	}, {
+		"Ticker.symbol" : "GWW",
+		"Security" : "Grainger (W.W.) Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Materials"
+	}, {
+		"Ticker.symbol" : "HAL",
+		"Security" : "Halliburton Co.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Equipment & Services"
+	}, {
+		"Ticker.symbol" : "HBI",
+		"Security" : "Hanesbrands Inc",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "HOG",
+		"Security" : "Harley-Davidson",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Motorcycle Manufacturers"
+	}, {
+		"Ticker.symbol" : "HAR",
+		"Security" : "Harman Int'l Industries",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Consumer Electronics"
+	}, {
+		"Ticker.symbol" : "HRS",
+		"Security" : "Harris Corporation",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Telecommunications Equipment"
+	}, {
+		"Ticker.symbol" : "HIG",
+		"Security" : "Hartford Financial Svc.Gp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Property & Casualty Insurance"
+	}, {
+		"Ticker.symbol" : "HAS",
+		"Security" : "Hasbro Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Leisure Products"
+	}, {
+		"Ticker.symbol" : "HCA",
+		"Security" : "HCA Holdings",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Facilities"
+	}, {
+		"Ticker.symbol" : "HCP",
+		"Security" : "HCP Inc.",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "HP",
+		"Security" : "Helmerich & Payne",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Drilling"
+	}, {
+		"Ticker.symbol" : "HSIC",
+		"Security" : "Henry Schein",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Distributors"
+	}, {
+		"Ticker.symbol" : "HES",
+		"Security" : "Hess Corporation",
+		"Sector" : "Energy",
+		"SubIndustry" : "Integrated Oil & Gas"
+	}, {
+		"Ticker.symbol" : "HPE",
+		"Security" : "Hewlett Packard Enterprise",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Technology Hardware, Storage & Peripherals"
+	}, {
+		"Ticker.symbol" : "HOLX",
+		"Security" : "Hologic",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "HD",
+		"Security" : "Home Depot",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Home Improvement Retail"
+	}, {
+		"Ticker.symbol" : "HON",
+		"Security" : "Honeywell Int'l Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "HRL",
+		"Security" : "Hormel Foods Corp.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "HST",
+		"Security" : "Host Hotels & Resorts",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "HPQ",
+		"Security" : "HP Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Computer Hardware"
+	}, {
+		"Ticker.symbol" : "HUM",
+		"Security" : "Humana Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Managed Health Care"
+	}, {
+		"Ticker.symbol" : "HBAN",
+		"Security" : "Huntington Bancshares",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "IDXX",
+		"Security" : "IDEXX Laboratories",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "ITW",
+		"Security" : "Illinois Tool Works",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Machinery"
+	}, {
+		"Ticker.symbol" : "ILMN",
+		"Security" : "Illumina Inc",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Life Sciences Tools & Services"
+	}, {
+		"Ticker.symbol" : "IR",
+		"Security" : "Ingersoll-Rand PLC",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "INTC",
+		"Security" : "Intel Corp.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "ICE",
+		"Security" : "Intercontinental Exchange",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "IBM",
+		"Security" : "International Business Machines",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "IT Consulting & Other Services"
+	}, {
+		"Ticker.symbol" : "IP",
+		"Security" : "International Paper",
+		"Sector" : "Materials",
+		"SubIndustry" : "Paper Packaging"
+	}, {
+		"Ticker.symbol" : "IPG",
+		"Security" : "Interpublic Group",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Advertising"
+	}, {
+		"Ticker.symbol" : "IFF",
+		"Security" : "Intl Flavors & Fragrances",
+		"Sector" : "Materials",
+		"SubIndustry" : "Specialty Chemicals"
+	}, {
+		"Ticker.symbol" : "INTU",
+		"Security" : "Intuit Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "ISRG",
+		"Security" : "Intuitive Surgical Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "IVZ",
+		"Security" : "Invesco Ltd.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Asset Management & Custody Banks"
+	}, {
+		"Ticker.symbol" : "IRM",
+		"Security" : "Iron Mountain Incorporated",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "JBHT",
+		"Security" : "J. B. Hunt Transport Services",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Trucking"
+	}, {
+		"Ticker.symbol" : "JEC",
+		"Security" : "Jacobs Engineering Group",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "SJM",
+		"Security" : "JM Smucker",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "JNJ",
+		"Security" : "Johnson & Johnson",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "JCI",
+		"Security" : "Johnson Controls International",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Building Products"
+	}, {
+		"Ticker.symbol" : "JPM",
+		"Security" : "JPMorgan Chase & Co.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "JNPR",
+		"Security" : "Juniper Networks",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Networking Equipment"
+	}, {
+		"Ticker.symbol" : "KSU",
+		"Security" : "Kansas City Southern",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Railroads"
+	}, {
+		"Ticker.symbol" : "K",
+		"Security" : "Kellogg Co.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "KEY",
+		"Security" : "KeyCorp",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "KMB",
+		"Security" : "Kimberly-Clark",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Household Products"
+	}, {
+		"Ticker.symbol" : "KIM",
+		"Security" : "Kimco Realty",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "KMI",
+		"Security" : "Kinder Morgan",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Refining & Marketing & Transportation"
+	}, {
+		"Ticker.symbol" : "KLAC",
+		"Security" : "KLA-Tencor Corp.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductor Equipment"
+	}, {
+		"Ticker.symbol" : "KSS",
+		"Security" : "Kohl's Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "General Merchandise Stores"
+	}, {
+		"Ticker.symbol" : "KHC",
+		"Security" : "Kraft Heinz Co",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "KR",
+		"Security" : "Kroger Co.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Food Retail"
+	}, {
+		"Ticker.symbol" : "LB",
+		"Security" : "L Brands Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel Retail"
+	}, {
+		"Ticker.symbol" : "LLL",
+		"Security" : "L-3 Communications Holdings",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "LH",
+		"Security" : "Laboratory Corp. of America Holding",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Facilities"
+	}, {
+		"Ticker.symbol" : "LRCX",
+		"Security" : "Lam Research",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductor Equipment"
+	}, {
+		"Ticker.symbol" : "LEG",
+		"Security" : "Leggett & Platt",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "LEN",
+		"Security" : "Lennar Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Homebuilding"
+	}, {
+		"Ticker.symbol" : "LUK",
+		"Security" : "Leucadia National Corp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Multi-Sector Holdings"
+	}, {
+		"Ticker.symbol" : "LVLT",
+		"Security" : "Level 3 Communications",
+		"Sector" : "Telecommunications Services",
+		"SubIndustry" : "Alternative Carriers"
+	}, {
+		"Ticker.symbol" : "LLY",
+		"Security" : "Lilly (Eli) & Co.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}, {
+		"Ticker.symbol" : "LNC",
+		"Security" : "Lincoln National",
+		"Sector" : "Financials",
+		"SubIndustry" : "Multi-line Insurance"
+	}, {
+		"Ticker.symbol" : "LLTC",
+		"Security" : "Linear Technology Corp.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "LKQ",
+		"Security" : "LKQ Corporation",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Distributors"
+	}, {
+		"Ticker.symbol" : "LMT",
+		"Security" : "Lockheed Martin Corp.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Aerospace & Defense"
+	}, {
+		"Ticker.symbol" : "L",
+		"Security" : "Loews Corp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Multi-Sector Holdings"
+	}, {
+		"Ticker.symbol" : "LOW",
+		"Security" : "Lowe's Cos.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Home Improvement Retail"
+	}, {
+		"Ticker.symbol" : "LYB",
+		"Security" : "LyondellBasell",
+		"Sector" : "Materials",
+		"SubIndustry" : "Diversified Chemicals"
+	}, {
+		"Ticker.symbol" : "MTB",
+		"Security" : "M&T Bank Corp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "MAC",
+		"Security" : "Macerich",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Retail REITs"
+	}, {
+		"Ticker.symbol" : "M",
+		"Security" : "Macy's Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Department Stores"
+	}, {
+		"Ticker.symbol" : "MNK",
+		"Security" : "Mallinckrodt Plc",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}, {
+		"Ticker.symbol" : "MRO",
+		"Security" : "Marathon Oil Corp.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "MPC",
+		"Security" : "Marathon Petroleum",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Refining & Marketing & Transportation"
+	}, {
+		"Ticker.symbol" : "MAR",
+		"Security" : "Marriott Int'l.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Hotels, Resorts & Cruise Lines"
+	}, {
+		"Ticker.symbol" : "MMC",
+		"Security" : "Marsh & McLennan",
+		"Sector" : "Financials",
+		"SubIndustry" : "Insurance Brokers"
+	}, {
+		"Ticker.symbol" : "MLM",
+		"Security" : "Martin Marietta Materials",
+		"Sector" : "Materials",
+		"SubIndustry" : "Construction Materials"
+	}, {
+		"Ticker.symbol" : "MAS",
+		"Security" : "Masco Corp.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Building Products"
+	}, {
+		"Ticker.symbol" : "MA",
+		"Security" : "Mastercard Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "MAT",
+		"Security" : "Mattel Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Leisure Products"
+	}, {
+		"Ticker.symbol" : "MKC",
+		"Security" : "McCormick & Co.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "MCD",
+		"Security" : "McDonald's Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Restaurants"
+	}, {
+		"Ticker.symbol" : "MCK",
+		"Security" : "McKesson Corp.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Distributors"
+	}, {
+		"Ticker.symbol" : "MJN",
+		"Security" : "Mead Johnson",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "MDT",
+		"Security" : "Medtronic plc",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "MRK",
+		"Security" : "Merck & Co.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}, {
+		"Ticker.symbol" : "MET",
+		"Security" : "MetLife Inc.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Life & Health Insurance"
+	}, {
+		"Ticker.symbol" : "MTD",
+		"Security" : "Mettler Toledo",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Life Sciences Tools & Services"
+	}, {
+		"Ticker.symbol" : "KORS",
+		"Security" : "Michael Kors Holdings",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "MCHP",
+		"Security" : "Microchip Technology",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "MU",
+		"Security" : "Micron Technology",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "MSFT",
+		"Security" : "Microsoft Corp.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Systems Software"
+	}, {
+		"Ticker.symbol" : "MAA",
+		"Security" : "Mid-America Apartments",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Residential REITs"
+	}, {
+		"Ticker.symbol" : "MHK",
+		"Security" : "Mohawk Industries",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Home Furnishings"
+	}, {
+		"Ticker.symbol" : "TAP",
+		"Security" : "Molson Coors Brewing Company",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Brewers"
+	}, {
+		"Ticker.symbol" : "MDLZ",
+		"Security" : "Mondelez International",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "MON",
+		"Security" : "Monsanto Co.",
+		"Sector" : "Materials",
+		"SubIndustry" : "Fertilizers & Agricultural Chemicals"
+	}, {
+		"Ticker.symbol" : "MNST",
+		"Security" : "Monster Beverage",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Soft Drinks"
+	}, {
+		"Ticker.symbol" : "MCO",
+		"Security" : "Moody's Corp",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "MS",
+		"Security" : "Morgan Stanley",
+		"Sector" : "Financials",
+		"SubIndustry" : "Investment Banking & Brokerage"
+	}, {
+		"Ticker.symbol" : "MSI",
+		"Security" : "Motorola Solutions Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Telecommunications Equipment"
+	}, {
+		"Ticker.symbol" : "MUR",
+		"Security" : "Murphy Oil",
+		"Sector" : "Energy",
+		"SubIndustry" : "Integrated Oil & Gas"
+	}, {
+		"Ticker.symbol" : "MYL",
+		"Security" : "Mylan N.V.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}, {
+		"Ticker.symbol" : "NDAQ",
+		"Security" : "NASDAQ OMX Group",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "NOV",
+		"Security" : "National Oilwell Varco Inc.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Equipment & Services"
+	}, {
+		"Ticker.symbol" : "NAVI",
+		"Security" : "Navient",
+		"Sector" : "Financials",
+		"SubIndustry" : "Consumer Finance"
+	}, {
+		"Ticker.symbol" : "NTAP",
+		"Security" : "NetApp",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "NFLX",
+		"Security" : "Netflix Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "NWL",
+		"Security" : "Newell Brands",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Housewares & Specialties"
+	}, {
+		"Ticker.symbol" : "NFX",
+		"Security" : "Newfield Exploration Co",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "NEM",
+		"Security" : "Newmont Mining Corp. (Hldg. Co.)",
+		"Sector" : "Materials",
+		"SubIndustry" : "Gold"
+	}, {
+		"Ticker.symbol" : "NWSA",
+		"Security" : "News Corp. Class A",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Publishing"
+	}, {
+		"Ticker.symbol" : "NWS",
+		"Security" : "News Corp. Class B",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Publishing"
+	}, {
+		"Ticker.symbol" : "NEE",
+		"Security" : "NextEra Energy",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "NLSN",
+		"Security" : "Nielsen Holdings",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Research & Consulting Services"
+	}, {
+		"Ticker.symbol" : "NKE",
+		"Security" : "Nike",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "NI",
+		"Security" : "NiSource Inc.",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "NBL",
+		"Security" : "Noble Energy Inc",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "JWN",
+		"Security" : "Nordstrom",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Department Stores"
+	}, {
+		"Ticker.symbol" : "NSC",
+		"Security" : "Norfolk Southern Corp.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Railroads"
+	}, {
+		"Ticker.symbol" : "NTRS",
+		"Security" : "Northern Trust Corp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Asset Management & Custody Banks"
+	}, {
+		"Ticker.symbol" : "NOC",
+		"Security" : "Northrop Grumman Corp.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Aerospace & Defense"
+	}, {
+		"Ticker.symbol" : "NRG",
+		"Security" : "NRG Energy",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Independent Power Producers & Energy Traders"
+	}, {
+		"Ticker.symbol" : "NUE",
+		"Security" : "Nucor Corp.",
+		"Sector" : "Materials",
+		"SubIndustry" : "Steel"
+	}, {
+		"Ticker.symbol" : "NVDA",
+		"Security" : "Nvidia Corporation",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "ORLY",
+		"Security" : "O'Reilly Automotive",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Stores"
+	}, {
+		"Ticker.symbol" : "OXY",
+		"Security" : "Occidental Petroleum",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "OMC",
+		"Security" : "Omnicom Group",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Advertising"
+	}, {
+		"Ticker.symbol" : "OKE",
+		"Security" : "ONEOK",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "ORCL",
+		"Security" : "Oracle Corp.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Application Software"
+	}, {
+		"Ticker.symbol" : "PCAR",
+		"Security" : "PACCAR Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Construction & Farm Machinery & Heavy Trucks"
+	}, {
+		"Ticker.symbol" : "PH",
+		"Security" : "Parker-Hannifin",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "PDCO",
+		"Security" : "Patterson Companies",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Supplies"
+	}, {
+		"Ticker.symbol" : "PAYX",
+		"Security" : "Paychex Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "PYPL",
+		"Security" : "PayPal",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Data Processing & Outsourced Services"
+	}, {
+		"Ticker.symbol" : "PNR",
+		"Security" : "Pentair Ltd.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Machinery"
+	}, {
+		"Ticker.symbol" : "PBCT",
+		"Security" : "People's United Financial",
+		"Sector" : "Financials",
+		"SubIndustry" : "Thrifts & Mortgage Finance"
+	}, {
+		"Ticker.symbol" : "PEP",
+		"Security" : "PepsiCo Inc.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Soft Drinks"
+	}, {
+		"Ticker.symbol" : "PKI",
+		"Security" : "PerkinElmer",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "PRGO",
+		"Security" : "Perrigo",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}, {
+		"Ticker.symbol" : "PFE",
+		"Security" : "Pfizer Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}, {
+		"Ticker.symbol" : "PCG",
+		"Security" : "PG&E Corp.",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "PM",
+		"Security" : "Philip Morris International",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Tobacco"
+	}, {
+		"Ticker.symbol" : "PSX",
+		"Security" : "Phillips 66",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Refining & Marketing & Transportation"
+	}, {
+		"Ticker.symbol" : "PNW",
+		"Security" : "Pinnacle West Capital",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "PXD",
+		"Security" : "Pioneer Natural Resources",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "PBI",
+		"Security" : "Pitney-Bowes",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Technology, Hardware, Software and Supplies"
+	}, {
+		"Ticker.symbol" : "PNC",
+		"Security" : "PNC Financial Services",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "RL",
+		"Security" : "Polo Ralph Lauren Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "PPG",
+		"Security" : "PPG Industries",
+		"Sector" : "Materials",
+		"SubIndustry" : "Diversified Chemicals"
+	}, {
+		"Ticker.symbol" : "PPL",
+		"Security" : "PPL Corp.",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "PX",
+		"Security" : "Praxair Inc.",
+		"Sector" : "Materials",
+		"SubIndustry" : "Industrial Gases"
+	}, {
+		"Ticker.symbol" : "PCLN",
+		"Security" : "Priceline.com Inc",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Internet & Direct Marketing Retail"
+	}, {
+		"Ticker.symbol" : "PFG",
+		"Security" : "Principal Financial Group",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "PG",
+		"Security" : "Procter & Gamble",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Personal Products"
+	}, {
+		"Ticker.symbol" : "PGR",
+		"Security" : "Progressive Corp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Property & Casualty Insurance"
+	}, {
+		"Ticker.symbol" : "PLD",
+		"Security" : "Prologis",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "PRU",
+		"Security" : "Prudential Financial",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "PEG",
+		"Security" : "Public Serv. Enterprise Inc.",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "PSA",
+		"Security" : "Public Storage",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "PHM",
+		"Security" : "Pulte Homes Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Homebuilding"
+	}, {
+		"Ticker.symbol" : "PVH",
+		"Security" : "PVH Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "QRVO",
+		"Security" : "Qorvo",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "QCOM",
+		"Security" : "QUALCOMM Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "PWR",
+		"Security" : "Quanta Services Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "DGX",
+		"Security" : "Quest Diagnostics",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Facilities"
+	}, {
+		"Ticker.symbol" : "RRC",
+		"Security" : "Range Resources Corp.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "RTN",
+		"Security" : "Raytheon Co.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Aerospace & Defense"
+	}, {
+		"Ticker.symbol" : "O",
+		"Security" : "Realty Income Corporation",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Retail REITs"
+	}, {
+		"Ticker.symbol" : "RHT",
+		"Security" : "Red Hat Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Systems Software"
+	}, {
+		"Ticker.symbol" : "REGN",
+		"Security" : "Regeneron",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Biotechnology"
+	}, {
+		"Ticker.symbol" : "RF",
+		"Security" : "Regions Financial Corp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "RSG",
+		"Security" : "Republic Services Inc",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "RAI",
+		"Security" : "Reynolds American Inc.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Tobacco"
+	}, {
+		"Ticker.symbol" : "RHI",
+		"Security" : "Robert Half International",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Human Resource & Employment Services"
+	}, {
+		"Ticker.symbol" : "ROK",
+		"Security" : "Rockwell Automation Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "COL",
+		"Security" : "Rockwell Collins",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "ROP",
+		"Security" : "Roper Industries",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "ROST",
+		"Security" : "Ross Stores",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel Retail"
+	}, {
+		"Ticker.symbol" : "RCL",
+		"Security" : "Royal Caribbean Cruises Ltd",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Hotels, Resorts & Cruise Lines"
+	}, {
+		"Ticker.symbol" : "R",
+		"Security" : "Ryder System",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "SPGI",
+		"Security" : "S&P Global, Inc.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "CRM",
+		"Security" : "Salesforce.com",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "SCG",
+		"Security" : "SCANA Corp",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "SLB",
+		"Security" : "Schlumberger Ltd.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Equipment & Services"
+	}, {
+		"Ticker.symbol" : "SNI",
+		"Security" : "Scripps Networks Interactive Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Broadcasting & Cable TV"
+	}, {
+		"Ticker.symbol" : "STX",
+		"Security" : "Seagate Technology",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Computer Storage & Peripherals"
+	}, {
+		"Ticker.symbol" : "SEE",
+		"Security" : "Sealed Air",
+		"Sector" : "Materials",
+		"SubIndustry" : "Paper Packaging"
+	}, {
+		"Ticker.symbol" : "SRE",
+		"Security" : "Sempra Energy",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "SHW",
+		"Security" : "Sherwin-Williams",
+		"Sector" : "Materials",
+		"SubIndustry" : "Specialty Chemicals"
+	}, {
+		"Ticker.symbol" : "SIG",
+		"Security" : "Signet Jewelers",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Stores"
+	}, {
+		"Ticker.symbol" : "SPG",
+		"Security" : "Simon Property Group Inc",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "SWKS",
+		"Security" : "Skyworks Solutions",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "SLG",
+		"Security" : "SL Green Realty",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Office REITs"
+	}, {
+		"Ticker.symbol" : "SNA",
+		"Security" : "Snap-On Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Household Appliances"
+	}, {
+		"Ticker.symbol" : "SO",
+		"Security" : "Southern Co.",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "LUV",
+		"Security" : "Southwest Airlines",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Airlines"
+	}, {
+		"Ticker.symbol" : "SWN",
+		"Security" : "Southwestern Energy",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "SE",
+		"Security" : "Spectra Energy Corp.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Refining & Marketing & Transportation"
+	}, {
+		"Ticker.symbol" : "SWK",
+		"Security" : "Stanley Black & Decker",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Household Appliances"
+	}, {
+		"Ticker.symbol" : "SPLS",
+		"Security" : "Staples Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Stores"
+	}, {
+		"Ticker.symbol" : "SBUX",
+		"Security" : "Starbucks Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Restaurants"
+	}, {
+		"Ticker.symbol" : "STT",
+		"Security" : "State Street Corp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "SRCL",
+		"Security" : "Stericycle Inc",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "SYK",
+		"Security" : "Stryker Corp.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "STI",
+		"Security" : "SunTrust Banks",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "SYMC",
+		"Security" : "Symantec Corp.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Application Software"
+	}, {
+		"Ticker.symbol" : "SYF",
+		"Security" : "Synchrony Financial",
+		"Sector" : "Financials",
+		"SubIndustry" : "Consumer Finance"
+	}, {
+		"Ticker.symbol" : "SYY",
+		"Security" : "Sysco Corp.",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Food Distributors"
+	}, {
+		"Ticker.symbol" : "TROW",
+		"Security" : "T. Rowe Price Group",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "TGT",
+		"Security" : "Target Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "General Merchandise Stores"
+	}, {
+		"Ticker.symbol" : "TEL",
+		"Security" : "TE Connectivity Ltd.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Electronic Manufacturing Services"
+	}, {
+		"Ticker.symbol" : "TGNA",
+		"Security" : "Tegna, Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Publishing"
+	}, {
+		"Ticker.symbol" : "TDC",
+		"Security" : "Teradata Corp.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Application Software"
+	}, {
+		"Ticker.symbol" : "TSO",
+		"Security" : "Tesoro Petroleum Co.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Refining & Marketing & Transportation"
+	}, {
+		"Ticker.symbol" : "TXN",
+		"Security" : "Texas Instruments",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "TXT",
+		"Security" : "Textron Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "BK",
+		"Security" : "The Bank of New York Mellon Corp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "CLX",
+		"Security" : "The Clorox Company",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Household Products"
+	}, {
+		"Ticker.symbol" : "COO",
+		"Security" : "The Cooper Companies",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Supplies"
+	}, {
+		"Ticker.symbol" : "HSY",
+		"Security" : "The Hershey Company",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "MOS",
+		"Security" : "The Mosaic Company",
+		"Sector" : "Materials",
+		"SubIndustry" : "Fertilizers & Agricultural Chemicals"
+	}, {
+		"Ticker.symbol" : "TRV",
+		"Security" : "The Travelers Companies Inc.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Property & Casualty Insurance"
+	}, {
+		"Ticker.symbol" : "DIS",
+		"Security" : "The Walt Disney Company",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Broadcasting & Cable TV"
+	}, {
+		"Ticker.symbol" : "TMO",
+		"Security" : "Thermo Fisher Scientific",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "TIF",
+		"Security" : "Tiffany & Co.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "TWX",
+		"Security" : "Time Warner Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Broadcasting & Cable TV"
+	}, {
+		"Ticker.symbol" : "TJX",
+		"Security" : "TJX Companies Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel Retail"
+	}, {
+		"Ticker.symbol" : "TMK",
+		"Security" : "Torchmark Corp.",
+		"Sector" : "Financials",
+		"SubIndustry" : "Life & Health Insurance"
+	}, {
+		"Ticker.symbol" : "TSS",
+		"Security" : "Total System Services",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "TSCO",
+		"Security" : "Tractor Supply Company",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Retail"
+	}, {
+		"Ticker.symbol" : "TDG",
+		"Security" : "TransDigm Group",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Aerospace & Defense"
+	}, {
+		"Ticker.symbol" : "RIG",
+		"Security" : "Transocean",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Drilling"
+	}, {
+		"Ticker.symbol" : "TRIP",
+		"Security" : "TripAdvisor",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Internet & Direct Marketing Retail"
+	}, {
+		"Ticker.symbol" : "FOXA",
+		"Security" : "Twenty-First Century Fox Class A",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Publishing"
+	}, {
+		"Ticker.symbol" : "FOX",
+		"Security" : "Twenty-First Century Fox Class B",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Publishing"
+	}, {
+		"Ticker.symbol" : "TSN",
+		"Security" : "Tyson Foods",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Packaged Foods & Meats"
+	}, {
+		"Ticker.symbol" : "USB",
+		"Security" : "U.S. Bancorp",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "UDR",
+		"Security" : "UDR Inc",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "Residential REITs"
+	}, {
+		"Ticker.symbol" : "ULTA",
+		"Security" : "Ulta Salon Cosmetics & Fragrance Inc",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Specialty Stores"
+	}, {
+		"Ticker.symbol" : "UA",
+		"Security" : "Under Armour",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "UAA",
+		"Security" : "Under Armour",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "UNP",
+		"Security" : "Union Pacific",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Railroads"
+	}, {
+		"Ticker.symbol" : "UAL",
+		"Security" : "United Continental Holdings",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Airlines"
+	}, {
+		"Ticker.symbol" : "UNH",
+		"Security" : "United Health Group Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Managed Health Care"
+	}, {
+		"Ticker.symbol" : "UPS",
+		"Security" : "United Parcel Service",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Air Freight & Logistics"
+	}, {
+		"Ticker.symbol" : "URI",
+		"Security" : "United Rentals, Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Trading Companies & Distributors"
+	}, {
+		"Ticker.symbol" : "UTX",
+		"Security" : "United Technologies",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "UHS",
+		"Security" : "Universal Health Services, Inc.",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Facilities"
+	}, {
+		"Ticker.symbol" : "UNM",
+		"Security" : "Unum Group",
+		"Sector" : "Financials",
+		"SubIndustry" : "Diversified Financial Services"
+	}, {
+		"Ticker.symbol" : "URBN",
+		"Security" : "Urban Outfitters",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel Retail"
+	}, {
+		"Ticker.symbol" : "VFC",
+		"Security" : "V.F. Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Apparel, Accessories & Luxury Goods"
+	}, {
+		"Ticker.symbol" : "VLO",
+		"Security" : "Valero Energy",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Refining & Marketing & Transportation"
+	}, {
+		"Ticker.symbol" : "VAR",
+		"Security" : "Varian Medical Systems",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "VTR",
+		"Security" : "Ventas Inc",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "VRSN",
+		"Security" : "Verisign Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "VRSK",
+		"Security" : "Verisk Analytics",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Research & Consulting Services"
+	}, {
+		"Ticker.symbol" : "VZ",
+		"Security" : "Verizon Communications",
+		"Sector" : "Telecommunications Services",
+		"SubIndustry" : "Integrated Telecommunications Services"
+	}, {
+		"Ticker.symbol" : "VRTX",
+		"Security" : "Vertex Pharmaceuticals Inc",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Biotechnology"
+	}, {
+		"Ticker.symbol" : "VIAB",
+		"Security" : "Viacom Inc.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Broadcasting & Cable TV"
+	}, {
+		"Ticker.symbol" : "V",
+		"Security" : "Visa Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "VNO",
+		"Security" : "Vornado Realty Trust",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "VMC",
+		"Security" : "Vulcan Materials",
+		"Sector" : "Materials",
+		"SubIndustry" : "Construction Materials"
+	}, {
+		"Ticker.symbol" : "WMT",
+		"Security" : "Wal-Mart Stores",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Hypermarkets & Super Centers"
+	}, {
+		"Ticker.symbol" : "WBA",
+		"Security" : "Walgreens Boots Alliance",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Drug Retail"
+	}, {
+		"Ticker.symbol" : "WM",
+		"Security" : "Waste Management Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Environmental Services"
+	}, {
+		"Ticker.symbol" : "WAT",
+		"Security" : "Waters Corporation",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Distributors"
+	}, {
+		"Ticker.symbol" : "WEC",
+		"Security" : "Wec Energy Group Inc",
+		"Sector" : "Utilities",
+		"SubIndustry" : "Electric Utilities"
+	}, {
+		"Ticker.symbol" : "WFC",
+		"Security" : "Wells Fargo",
+		"Sector" : "Financials",
+		"SubIndustry" : "Banks"
+	}, {
+		"Ticker.symbol" : "HCN",
+		"Security" : "Welltower Inc.",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "WDC",
+		"Security" : "Western Digital",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Computer Storage & Peripherals"
+	}, {
+		"Ticker.symbol" : "WU",
+		"Security" : "Western Union Co",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "WRK",
+		"Security" : "WestRock Company",
+		"Sector" : "Materials",
+		"SubIndustry" : "Paper Packaging"
+	}, {
+		"Ticker.symbol" : "WY",
+		"Security" : "Weyerhaeuser Corp.",
+		"Sector" : "Real Estate",
+		"SubIndustry" : "REITs"
+	}, {
+		"Ticker.symbol" : "WHR",
+		"Security" : "Whirlpool Corp.",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Household Appliances"
+	}, {
+		"Ticker.symbol" : "WFM",
+		"Security" : "Whole Foods Market",
+		"Sector" : "Consumer Staples",
+		"SubIndustry" : "Food Retail"
+	}, {
+		"Ticker.symbol" : "WMB",
+		"Security" : "Williams Cos.",
+		"Sector" : "Energy",
+		"SubIndustry" : "Oil & Gas Exploration & Production"
+	}, {
+		"Ticker.symbol" : "WLTW",
+		"Security" : "Willis Towers Watson",
+		"Sector" : "Financials",
+		"SubIndustry" : "Insurance Brokers"
+	}, {
+		"Ticker.symbol" : "WYN",
+		"Security" : "Wyndham Worldwide",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Hotels, Resorts & Cruise Lines"
+	}, {
+		"Ticker.symbol" : "WYNN",
+		"Security" : "Wynn Resorts Ltd",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Casinos & Gaming"
+	}, {
+		"Ticker.symbol" : "XEL",
+		"Security" : "Xcel Energy Inc",
+		"Sector" : "Utilities",
+		"SubIndustry" : "MultiUtilities"
+	}, {
+		"Ticker.symbol" : "XRX",
+		"Security" : "Xerox Corp.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "IT Consulting & Other Services"
+	}, {
+		"Ticker.symbol" : "XLNX",
+		"Security" : "Xilinx Inc",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Semiconductors"
+	}, {
+		"Ticker.symbol" : "XL",
+		"Security" : "XL Capital",
+		"Sector" : "Financials",
+		"SubIndustry" : "Property & Casualty Insurance"
+	}, {
+		"Ticker.symbol" : "XYL",
+		"Security" : "Xylem Inc.",
+		"Sector" : "Industrials",
+		"SubIndustry" : "Industrial Conglomerates"
+	}, {
+		"Ticker.symbol" : "YHOO",
+		"Security" : "Yahoo Inc.",
+		"Sector" : "Information Technology",
+		"SubIndustry" : "Internet Software & Services"
+	}, {
+		"Ticker.symbol" : "YUM",
+		"Security" : "Yum! Brands Inc",
+		"Sector" : "Consumer Discretionary",
+		"SubIndustry" : "Restaurants"
+	}, {
+		"Ticker.symbol" : "ZBH",
+		"Security" : "Zimmer Biomet Holdings",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Health Care Equipment"
+	}, {
+		"Ticker.symbol" : "ZION",
+		"Security" : "Zions Bancorp",
+		"Sector" : "Financials",
+		"SubIndustry" : "Regional Banks"
+	}, {
+		"Ticker.symbol" : "ZTS",
+		"Security" : "Zoetis",
+		"Sector" : "Health Care",
+		"SubIndustry" : "Pharmaceuticals"
+	}
+]

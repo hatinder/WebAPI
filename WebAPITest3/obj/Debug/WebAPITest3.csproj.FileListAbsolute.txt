@@ -1,0 +1,5 @@
+E:\myprojects\WebAPI\WebAPITest3\WebAPITest3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\myprojects\WebAPI\WebAPITest3\WebAPITest3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\myprojects\WebAPI\WebAPITest3\WebAPITest3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\myprojects\WebAPI\WebAPITest3\WebAPITest3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\myprojects\WebAPI\WebAPITest3\WebAPITest3\bin\roslyn\VBCSCompiler.exe

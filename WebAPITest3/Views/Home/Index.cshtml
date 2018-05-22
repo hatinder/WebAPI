@@ -1,0 +1,47 @@
+﻿@using WebAPI.data1.Entities
+@model IEnumerable<WebAPI.data1.Entities.Security>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+        </div>
+    </section>
+}
+<h3>Some sample results from the database:</h3>
+<div class="table-responsive">
+    <table class="table table-condensed table-bordered table-striped table-hover">
+        <thead>
+        <th>Symbol</th>
+        <th>Sector</th>
+        <th>Security Name</th>
+        <th>Sub Industry</th>
+        <th>Close Date</th>
+        <th>Alice Price</th>
+        <th>Bob Price</th>
+        <th>Charlie Price</th>
+        </thead>
+        
+        <tbody>
+            @foreach (var security in Model)
+            {
+                List<Prices> prices= security.PriceCollection.ToList();
+                foreach (var price in prices)
+                { 
+                     <tr>
+                         <td>@security.symbol</td>
+                         <td>@security.Sector</td>
+                         <td>@security.SecurityName</td>
+                         <td>@security.SubIndustry</td>
+                         <td>@price.CloseDate</td>
+                         <td>@price.Alice</td>
+                         <td>@price.Bob</td>
+                         <td>@price.Charlie</td>
+                     </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
